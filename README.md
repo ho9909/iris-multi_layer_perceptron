@@ -3,7 +3,7 @@
 등산의 경우 산 꼭대기에서 최저점으로 하산하려면 비탈길을 타고 계속 내려오면 됩니다. 이와 마찬가지로 비용함수도 경사(기울기)가 아래로 향하는 방향으로 계속 이동하다보면 비용함수의 최저점에 도달하게 됩니다.
 
 
-
+<img width="374" height="250" alt="Image" src="https://github.com/user-attachments/assets/c33418e6-e454-486c-b697-bfee802f0c20" />
 
  
 
