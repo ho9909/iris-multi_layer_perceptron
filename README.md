@@ -34,4 +34,4 @@ xi +1 = xi - α∇f(xi)
 함수의 그래프에서 미분값은 특정 지점에서의 접선의 기울기를 의미한다. 
 좀 더 빨리 값을 얻기 위해서 기울기에 학습 비율(learning rate)을 곱하는 것이 일반적이다.
 
-
+<img width="417" height="278" alt="Image" src="https://github.com/user-attachments/assets/e1bfdcbb-9d1b-4f49-949d-f9babcb43fdb" />
